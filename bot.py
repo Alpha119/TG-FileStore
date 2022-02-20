@@ -47,14 +47,14 @@ async def start(bot: Client, cmd: Message):
             reply_markup=InlineKeyboardMarkup(
 				[
 					[
-						InlineKeyboardButton("🔆 Sᴜᴘᴘᴏʀᴛ 🔆", url="https://t.me/GreyMatters_bots_discussion"),
-						InlineKeyboardButton("🔅 Cʜᴀɴɴᴇʟ 🔅", url="https://t.me/GreyMatter_bots"),
+						InlineKeyboardButton("🔆 Sᴜᴘᴘᴏʀᴛ 🔆", url="https://t.me/unique_coders_x"),
+						InlineKeyboardButton("🔅 Cʜᴀɴɴᴇʟ 🔅", url="https://t.me/unique_coders_x"),
 						InlineKeyboardButton("👥 Aʙᴏᴜᴛ ", callback_data="aboutbot")
                                         ],
                                         [
 						InlineKeyboardButton("👨‍🔧 Dᴇᴠs ", callback_data="aboutdevs"),
-						InlineKeyboardButton("💢 Sᴏᴜʀᴄᴇ ", url="https://GitHub.com/GreyMatter_bots/TG-FileStore"),
-						InlineKeyboardButton("🚸 Pᴏᴡᴇʀᴇᴅ ʙʏ", url="https://t.me/GreyMatter_bots")
+						InlineKeyboardButton("💢 Sᴏᴜʀᴄᴇ ", url="https://github.com/Alpha119/TG-FileStore"),
+						InlineKeyboardButton("🚸 Pᴏᴡᴇʀᴇᴅ ʙʏ", url="https://t.me/unique_coders_x")
 					],
                                         [
 						InlineKeyboardButton("🔐 Cʟᴏsᴇ ", callback_data="closeMessage") 
