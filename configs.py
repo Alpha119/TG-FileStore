@@ -31,7 +31,7 @@ Send Me any Media or File.I can Work In Channel too Add Me to Channel with Edit 
 │
 ├🔹📡 **Hosted On:** [𝐇𝐞𝐫𝐨𝐤𝐮](https://heroku.com)
 │
-├🔸👨‍💻 **Developer:** [@𝐏𝐫𝐞𝐝𝐚𝐭𝐨𝐫](https://t.me/unique_coders_x) 
+├🔸👨‍💻 **Developer:** [@unique_coders_x](https://t.me/unique_coders_x) 
 │
 ├🔹👥 **Bot Support:** [𝐒𝐮𝐩𝐩𝐨𝐫𝐭](https://t.me/unique_coders_x)
 │
